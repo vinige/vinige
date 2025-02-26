@@ -1,4 +1,4 @@
-## Eae, eu sou o Vinicius Gonçalves, mas pode me chamar de Vini!
+## Eae, eu sou o Vinicius Gonçalves
 <div align="center">
   <a href="https://github.com/vinige">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinige&show_icons=true&include_all_commits=true&count_private=true"/>
